@@ -72,3 +72,8 @@ fn main() {
 ```
 
 ![](https://user-images.githubusercontent.com/17700125/77382259-444a6d00-6dc3-11ea-9355-85b734b03252.PNG)
+
+## todo
+- [ ] refactor
+- [ ] add more function
+- [ ] add file name and line pos info (is this need...? i have no idea)
